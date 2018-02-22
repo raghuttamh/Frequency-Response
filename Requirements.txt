@@ -1,0 +1,3 @@
+The required libraries for the file to work are:
+1. numpy >= 1.7.1
+2. matplotlib
